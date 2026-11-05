@@ -1,0 +1,9 @@
+{
+  "name": "gtm-map-agents",
+  "version": "1.0.0",
+  "description": "Kernel's GTM Map: one agent maps a company's public surfaces against 34 product marketing outputs, a second agent re-checks every claim blind before anything is sent.",
+  "author": { "name": "Harsha Kotthapalli", "url": "https://kernelpmm.com" },
+  "homepage": "https://kernelpmm.com/gtm-map",
+  "license": "MIT",
+  "keywords": ["gtm-map", "product-marketing", "positioning", "agents", "verification", "claude-code"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gtm-map-agents",
+  "owner": { "name": "Harsha Kotthapalli", "url": "https://kernelpmm.com" },
+  "plugins": [
+    { "name": "gtm-map-agents", "source": "./", "description": "GTM Map runner plus a blind checker agent." }
+  ]
+}
