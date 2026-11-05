@@ -11,6 +11,18 @@ I built this for [Kernel](https://kernelpmm.com), my fractional product marketin
 - **Page 3, how the gaps would be closed.** Three issues from the read, what would be done about each, and where it has been done before. A `role` mode rewrites this page as a first-90-days plan for someone applying to the company.
 - **Draft outreach.** An email and a LinkedIn note quoting the read word for word. Drafts only. Nothing is sent.
 
+## Example: Revolut
+
+A public sample run on 5 November 2026, not sent to Revolut. [Download the PDF](examples/revolut/Revolut_GTM_Map.pdf).
+
+The read: Revolut's 4 November funding release speaks of "the first truly global bank", but its UK homepage leads with "This is your bank, redefined" and the same reasons Monzo and N26 lead with. The claim no rival makes, a bank in 30+ countries, sits on the About page and in the press, not in the hero.
+
+Verdicts: 4 visible, 10 partial, 3 missing, 17 cannot be known from outside. The blind checker reproduced 49 of 54 claims on the first pass. The runner re-read the live pages for the other five, kept three and reworded two, and a fresh checker confirmed all five.
+
+![Page 1: the map](examples/revolut/Revolut_GTM_Map_p1.png)
+![Page 2: the positioning read](examples/revolut/Revolut_GTM_Map_p2.png)
+![Page 3: how the gaps would be closed](examples/revolut/Revolut_GTM_Map_p3.png)
+
 ## How the two agents work
 
 | Part | Job |
